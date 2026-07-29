@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights / large downloads (fetched at runtime, don't commit)
+*.pth
+*.pth.tar
+*.ckpt
+
+# Video I/O (sample inputs/outputs — keep only small demo assets)
+*.mp4
+*.avi
+*.mov
+!assets/demo.gif
+
+# YOLO / Ultralytics training runs
+runs/
+*.zip
+
+# Dataset (bring your own, don't commit)
+Thermal_dataset/
+Dataset/
+
+# OS
+.DS_Store
+Thumbs.db
