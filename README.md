@@ -10,7 +10,7 @@ Thermal-imagery drone detection & tracking with **YOLO (Ultralytics)** — train
 ## Demo
 
 <!-- Replace with an actual GIF or screenshot: assets/demo.gif -->
-`assets/demo.gif`
+`Thermal_Demo.gif`
 
 ## Workflow
 
