@@ -52,7 +52,7 @@ Unlike a single run-all pipeline, this notebook is an **iterative training log**
 ```
 .
 ├── Thermal_Training.ipynb   # Training + inference/tracking notebook
-├── assets/                  # Demo GIF / sample frames
+├── Thermal_Demo             # Demo test GIF / sample frames
 ├── README.md
 └── LICENSE
 ```
