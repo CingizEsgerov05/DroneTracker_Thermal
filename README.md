@@ -11,6 +11,7 @@ Thermal-imagery drone detection & tracking with **YOLO (Ultralytics)** — train
 
 <!-- Replace with an actual GIF or screenshot: assets/demo.gif -->
 `Thermal_Demo.gif`
+`Thermal_Demo_MultiDrone`
 
 ## Workflow
 
@@ -51,8 +52,8 @@ Unlike a single run-all pipeline, this notebook is an **iterative training log**
 
 ```
 .
-├── Thermal_Training.ipynb   # Training + inference/tracking notebook
-├── Thermal_Demo             # Demo test GIF / sample frames
+├── Thermal_Training.ipynb                     # Training + inference/tracking notebook
+├── Thermal_Demo + Thermal_Demo_MultiDrone     # Demo test GIF / sample frames
 ├── README.md
 └── LICENSE
 ```
